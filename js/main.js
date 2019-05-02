@@ -53,3 +53,5 @@ $(document).ready(function(){
   }, 1900);
 
 });
+
+$('[data-toggle="tooltip"]').tooltip();
